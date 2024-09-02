@@ -122,6 +122,9 @@ span {
   body {
     display: block;
   }
+  .main{
+    display: none;
+  }
 
   .small-screen-warning {
     display: flex;
@@ -139,7 +142,6 @@ span {
   body {
     display: block;
   }
-
   .small-screen-warning {
     display: none;
   }
