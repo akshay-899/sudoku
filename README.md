@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Sudoku game implementation where users can solve puzzles by filling in numbers on a 9x9 grid. The game provides real-time feedback on incorrect entries and includes features for error tracking and validation.
+A Sudoku game implementation where users can solve puzzles by filling in numbers on a 9x9 grid. The game allows you to play sudoku and includes error tracking and validation.
 
 ## Features
 
@@ -23,3 +23,8 @@ A Sudoku game implementation where users can solve puzzles by filling in numbers
 
    ```bash
    git clone https://github.com/akshay-899/sudoku.git
+   cd sudoku
+2. **Open this with the live server extension**
+
+## Note
+Please use desktop or laptop to play this game :)
